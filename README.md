@@ -122,7 +122,7 @@ chest-xray-ai/
 ### 1. Clone & install
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/chest-xray-ai.git
+git clone https://github.com/mcagridemir/chest-xray-ai.git
 cd chest-xray-ai
 pip install -r requirements.txt
 ```
