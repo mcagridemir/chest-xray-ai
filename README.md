@@ -19,8 +19,17 @@ prediction visually using **Grad-CAM** heatmaps.
 
 | Original X-ray | Grad-CAM Heatmap |
 |:-:|:-:|
-| ![Normal X-ray](assets/sample_normal.jpg) | ![Normal Heatmap](assets/sample_normal_cam.jpg) |
-| ![Pneumonia X-ray](assets/sample_pneumonia.jpg) | ![Pneumonia Heatmap](assets/sample_pneumonia_cam.jpg) |
+![Demo](assets/demo.png)
+
+---
+
+## Evaluation Results
+
+![Training Curves](assets/training_curves.png)
+
+![Confusion Matrix](assets/confusion_matrix.png)
+
+![ROC Curve](assets/roc_curve.png)
 
 *Red = high model attention · Blue = low model attention*
 
